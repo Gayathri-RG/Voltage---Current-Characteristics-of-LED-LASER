@@ -58,26 +58,16 @@ Key points:
 ---
 
 ## TABULATION LED Characteristics (850 nm)
+<img width="876" height="1471" alt="image" src="https://github.com/user-attachments/assets/68409689-c6d2-4a07-a36b-9ffe1445e11d" />
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
-
-<img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
-
-## TABULATION LASER Characteristics (1310 nm)
-
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<img width="1176" height="1600" alt="image" src="https://github.com/user-attachments/assets/74e1dec4-7549-493b-a580-6812b95cb6e7" />
+<img width="1100" height="1600" alt="image" src="https://github.com/user-attachments/assets/8384a846-9418-47ed-9e1a-ebdcc9a52658" />
+
+## RESULT
+The VI characteristics of the fiber optic LED and LASER were studied.
 
 ---
 
